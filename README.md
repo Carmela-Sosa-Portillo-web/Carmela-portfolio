@@ -17,11 +17,11 @@ My goal is to apply technology and data-driven insights to improve efficiency, r
 ---
 
 ## 🛠 Skills
-- **Data Analytics & Visualization**: Power BI, Excel, Python (Pandas, Matplotlib).  
-- **Business Intelligence**: KPI design, dashboard creation, reporting automation.  
-- **Process Management**: Workflow optimization, efficiency projects.  
-- **Project Management**: Cross-functional collaboration, strategic initiatives.  
-- **Quality Systems**: ISO 9001, ISO 14001, audits & compliance.  
+- **Data Analytics & Visualization:** Power BI, Excel, Python (Pandas, Matplotlib).  
+- **Business Intelligence:** KPI design, dashboard creation, reporting automation.  
+- **Systems & Process Implementation:** Business process mapping (AS-IS / TO-BE with Bizagi), QA testing, web service structuring, and system integration.  
+- **Project Management:** Cross-functional collaboration, strategic initiatives, system adoption leadership.  
+- **Quality Systems:** ISO 9001, ISO 14001, audits & compliance.  
 
 ---
 
