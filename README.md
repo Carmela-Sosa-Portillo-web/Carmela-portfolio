@@ -43,17 +43,18 @@ My goal is to apply technology and data-driven insights to improve efficiency, r
 
 ---
 
-### 🔹 Process Optimization – Maritime Operations
-- **Description:** Workflow analysis and redesign in maritime agency operations.  
-- **Tools:** Process mapping, KPI tracking, reporting.  
-- **Highlights:** Improved turnaround time by 25% and reduced errors in reporting.  
+### 🔹 IT Systems Implementation – Maritime Operations
+- **Role:** Project Lead  
+- **Description:** Led the implementation of IT systems to support maritime agency operations, ensuring alignment between business requirements and technical solutions.  
+- **Tools & Methods:** Process mapping with Bizagi (AS-IS / TO-BE), QA testing, web service structuring, and integration with other company systems.  
+- **Highlights:** Successfully guided system adoption across departments, improved process efficiency, and ensured quality through structured testing and validation.  
 
 ---
 
 ## 📫 Contact
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/tuusuario)  
-- **GitHub:** [Your GitHub](https://github.com/tuusuario)  
-- **Email:** youremail@example.com  
+- **LinkedIn:** www.linkedin.com/in/lic-carmela-sosa-portillo-098800b
+- **GitHub:** https://github.com/Carmela-Sosa-Portillo-web
+- **Email:** carmela.msosa@gmail.com
 
 ---
 ✨ *Thanks for visiting my portfolio!*
