@@ -9,12 +9,12 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
   <style>
     :root{
-      --bg:#0f172a; /* slate-900 */
-      --card:#111827; /* gray-900 */
-      --muted:#94a3b8; /* slate-400 */
-      --text:#e5e7eb; /* gray-200 */
-      --accent:#38bdf8; /* sky-400 */
-      --chip:#1f2937; /* gray-800 */
+      --bg:#0f172a;
+      --card:#111827;
+      --muted:#94a3b8;
+      --text:#e5e7eb;
+      --accent:#38bdf8;
+      --chip:#1f2937;
     }
     *{box-sizing:border-box}
     body{margin:0;font-family:Inter,system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:linear-gradient(180deg,#0b1220, #0f172a 30%, #0b1220);color:var(--text);}
@@ -26,23 +26,16 @@
     .cta{margin-top:12px;display:flex;gap:10px;flex-wrap:wrap}
     .btn{background:var(--accent);color:#001018;padding:10px 14px;border-radius:10px;font-weight:600;text-decoration:none}
     .btn.secondary{background:transparent;border:1px solid #334155;color:var(--text)}
-
     section{margin-top:34px}
     .section-title{font-size:18px;margin:0 0 14px;color:#cbd5e1}
     .card{background:linear-gradient(180deg,#0b1220, #0f172a);border:1px solid #1f2937;border-radius:16px;padding:18px}
-
-    /* grid */
     .grid{display:grid;gap:16px}
     .grid-2{grid-template-columns:repeat(2,minmax(0,1fr))}
     .grid-3{grid-template-columns:repeat(3,minmax(0,1fr))}
     @media (max-width:900px){.grid-3{grid-template-columns:1fr 1fr}}
     @media (max-width:720px){.grid-2,.grid-3{grid-template-columns:1fr}}
-
-    /* chips */
     .chips{display:flex;flex-wrap:wrap;gap:8px}
     .chip{padding:6px 10px;background:var(--chip);border:1px solid #243041;border-radius:999px;color:#cbd5e1;font-size:12px}
-
-    /* project */
     .project{display:flex;flex-direction:column;gap:10px}
     .project h3{margin:0;font-size:16px}
     .project p{margin:0;color:#cbd5e1;font-size:14px;line-height:1.5}
@@ -55,8 +48,7 @@
 <body>
   <div class="container">
     <header>
-      <!-- Reemplazá assets/avatar.jpg por tu foto en la carpeta assets/ -->
-      <img class="avatar" src="assets/avatar.jpg" alt="Carmela Sosa avatar">
+      <img class="avatar" src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=512&auto=format&fit=crop&v=2" alt="Carmela Sosa avatar">
       <div>
         <h1>Carmela Sosa</h1>
         <div class="subtitle">Business Intelligence • Data Analytics • IT Systems Implementation</div>
@@ -125,10 +117,8 @@
     <section>
       <h2 class="section-title">Selected Projects</h2>
       <div class="grid grid-3">
-        <!-- Power BI Project -->
         <div class="card project">
-          <!-- Subí tu captura a assets/powerbi-dashboard.png -->
-          <img class="thumb" src="assets/powerbi-dashboard.png" alt="Power BI dashboard">
+          <img class="thumb" src="https://images.unsplash.com/photo-1649972904342-3e0fbc0e3df0?q=80&w=1200&auto=format&fit=crop&v=2" alt="Power BI dashboard sample">
           <h3>Power BI — Business Report Dashboard</h3>
           <p class="muted">Interactive dashboard to monitor KPIs, revenue, and budget. Reduced reporting time by 40% and improved decision-making visibility.</p>
           <div class="links">
@@ -137,10 +127,8 @@
           </div>
         </div>
 
-        <!-- Python Project -->
         <div class="card project">
-          <!-- Subí tu captura a assets/python-analysis.png -->
-          <img class="thumb" src="assets/python-analysis.png" alt="Python data analysis">
+          <img class="thumb" src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200&auto=format&fit=crop&v=2" alt="Python analysis sample">
           <h3>Python — Data Cleaning & Analysis</h3>
           <p class="muted">Automation of data cleaning and analysis using Pandas. Saved hours of manual work by standardizing inputs and outputs.</p>
           <div class="links">
@@ -149,10 +137,8 @@
           </div>
         </div>
 
-        <!-- IT Systems Implementation (generalista) -->
         <div class="card project">
-          <!-- Subí tu captura a assets/it-systems.png -->
-          <img class="thumb" src="assets/it-systems.png" alt="IT systems implementation">
+          <img class="thumb" src="https://images.unsplash.com/photo-1581091870634-7b4f84d79c31?q=80&w=1200&auto=format&fit=crop&v=2" alt="IT systems sample">
           <h3>IT Systems Implementation</h3>
           <p class="muted"><b>Role:</b> Project Lead. Led IT systems implementation projects ensuring alignment between business needs and technical solutions. Involved in AS-IS/TO-BE process mapping with Bizagi, QA testing, web service structuring, and cross-system integrations.</p>
           <div class="links">
@@ -180,3 +166,4 @@
   <script>document.getElementById('year').textContent=new Date().getFullYear()</script>
 </body>
 </html>
+
